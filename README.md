@@ -7,13 +7,13 @@ In this project, four recommendation systems on real data, captured from IBM Wat
 
 ### Table of Contents
 
-1. [Used Libraries](#libraries)
+1. [Imported Libraries](#libraries)
 2. [Files Descriptions](#files)
 3. [Analysis Workflow](#analysis)
 
 
-## Packges  <a name="libraries"></a>
-The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
+### Libraries  <a name="libraries"></a>
+The following packages are used in conjunction with Anaconda distribution Python 3.0.
 
 1. Pickle
 2. Matplotlib
