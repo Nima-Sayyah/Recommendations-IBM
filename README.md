@@ -1,5 +1,5 @@
-# Recommendation-Systems-IBM-Articles
-In this project, I explored four recommendation systems to on real data from the IBM Watson Studio platform:
+# Recommendation (IBM)
+In this project, four recommendation systems on real data, captured from IBM Watson Studio platform are investigated:
 - Rank Based Recommendation.
 - User-User Based Collaborative Filtering.
 - Content Based Recommendations.
@@ -7,8 +7,8 @@ In this project, I explored four recommendation systems to on real data from the
 
 ### Table of Contents
 
-1. [The Libraries That I Have Used](#libraries)
-2. [File Descriptions](#files)
+1. [Used Libraries](#libraries)
+2. [Files Descriptions](#files)
 3. [Analysis Workflow](#analysis)
 
 
