@@ -23,9 +23,9 @@ The following packages are used in conjunction with Anaconda distribution Python
 
 ## File Descriptions <a name="files"></a>
 
-  Recommendations (IBM): The Jupyter notebook: showcases the analysis done in order to explore the dataset, the data preparation and wrangling as well as the building of recommendation engine. The notebook contains markdown cells to help with documentation of the steps.
+  Recommendations (IBM).ipynb : The Jupyter notebook: showcases the analysis done in order to explore the dataset, the data preparation and wrangling as well as the building of recommendation engine. The notebook contains markdown cells to help with documentation of the steps.
 
-- For reference an HTML version of the notebook is also available.
+ Recommendation (IBM).html : For reference an HTML version of the notebook is also available.
 
 Lastly, the data folder contains the dataset from IBM Watson Studio platform.
 It contains 3 files:
