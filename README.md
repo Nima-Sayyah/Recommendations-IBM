@@ -39,7 +39,7 @@ It contains 3 files:
 Before making recommendations of any kind, I explored the data to identify any missing values and data distribution. I cleaned and prepared the data for the analysis.
 
 #### Rank Based Recommendations
-To get started in building recommendations, I first identified the most popular articles simply based on users interaction. Since there are no ratings for any of those articles, it made sense to assume that articles with the most interactions are the most popular. These are then the articles we might recommend to new users (or anyone depending on what we know about them).
+get started in building recommendations, I first identified the most popular articles simply based on users interaction. Since there are no ratings for any of those articles, it made sense to assume that articles with the most interactions are the most popular. These are then the articles we might recommend to new users (or anyone depending on what we know about them).
 
 #### User-User Based Collaborative Filtering
 In order to build better recommendations for the users of IBM's platform, I took a look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users.
