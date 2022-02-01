@@ -23,7 +23,14 @@ The following packages are used in conjunction with Anaconda distribution Python
 
 ## File Descriptions <a name="files"></a>
 
-  Recommendations (IBM).ipynb : The Jupyter notebook: showcases the analysis done in order to explore the dataset, the data preparation and wrangling as well as the building of recommendation engine. The notebook contains markdown cells to help with documentation of the steps.
+  **Recommendations (IBM).ipynb**/ : This file includes te main analysis as follow:
+
+  * Exploratory Data Analysis
+  * Rank Based Recommendations
+  * User-User Based Collaborative Filtering
+  * Content Based Recommendations
+  * Matrix Factorization
+  * Extras & Concluding
 
  - Recommendation (IBM).html : For reference an HTML version of the notebook is also available.
 
