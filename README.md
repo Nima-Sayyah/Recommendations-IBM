@@ -37,11 +37,16 @@ The files structure is arranged as below:
           > Extras & Concluding
 	
     - Recommendation (IBM).html: HTML version of the notebook as a reference
-	
+    
     - \Data (IBM Watson Studio datasets)
 	        
           - articles_community.csv:  articles descriptive information 
-          - user-item-interactions.csv: users interactions with articles  
+          - user-item-interactions.csv: users interactions with articles 
+
+    - project_tests.py: Udacity tests checker (supplementary)
+    - Top_20.p: Udacity test material (supplementary)
+    - Top_10.p: Udacity test material (supplementary)
+    - Top_5.p: Udacity test material (supplementary) 
 
 ## Analysis Workflow  <a name="analysis"></a>
 
