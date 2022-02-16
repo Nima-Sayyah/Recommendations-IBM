@@ -1,18 +1,22 @@
 # Recommendation (IBM)
+### Table of Contents
+
+1. [Project Description](#files)
+2. [Installed Libraries](#libraries)
+3. [Files Descriptions](#files)
+4. [Analysis Workflow](#analysis)
+5. [Files Descriptions](#files)
+
+
+### Project Description  <a name="libraries"></a>
 In this project, four recommendation systems on real data, captured from IBM Watson Studio platform are investigated:
 - Rank Based Recommendation.
 - User-User Based Collaborative Filtering.
 - Content Based Recommendations.
 - Matrix Factorization. 
 
-### Table of Contents
 
-1. [Imported Libraries](#libraries)
-2. [Files Descriptions](#files)
-3. [Analysis Workflow](#analysis)
-
-
-### Libraries  <a name="libraries"></a>
+### Installed Libraries  <a name="libraries"></a>
 The following packages are used in conjunction with Anaconda distribution Python 3.0.
 
 1. Pickle
@@ -21,7 +25,7 @@ The following packages are used in conjunction with Anaconda distribution Python
 4. NumPy
 5. Pandas
 
-## File Descriptions <a name="files"></a>
+### File Descriptions <a name="files"></a>
 
 The files structure is arranged as below:
 
@@ -48,7 +52,7 @@ The files structure is arranged as below:
     - Top_10.p: Udacity test material (supplementary)
     - Top_5.p: Udacity test material (supplementary) 
 
-## Analysis Workflow  <a name="analysis"></a>
+### Analysis Workflow  <a name="analysis"></a>
 
 #### Exploratory Data Analysis
 I initially explored the data to identify any missing values and data distribution. I then cleaned and prepared the data for the analysis.
@@ -65,5 +69,5 @@ There are various ways with which someone opt to implement a content based recom
 #### Matrix Factorization
 Matrix factorization is a class of collaborative filtering algorithms used in recommender systems.  Its algorithms work by decomposing the user-item interaction matrix. Therefore, I used, **Singular Value Decomposition** (**SVD**) for that purpose to predict new articles an individual might interact with.
 
-## Licensing, Authors, Acknowledgements, etc.
+### Licensing, Authors, Acknowledgements, etc.
 Acknowledgement should go to Udacity for the project inspiration.
